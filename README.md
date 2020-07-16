@@ -5,7 +5,7 @@ A pre-trained model is a model created by some one else to solve a similar probl
 
 For example, if you want to build a self learning car. You can spend years to build a decent image recognition algorithm from scratch or you can take inception model (a pre-trained model) from Google which was built on [ImageNet](http://www.image-net.org/) data to identify images in those pictures.
 
-#### Computer Vision
+## Computer Vision Model
 
 | Model Name | Description | Framework |
 |   :---:      |     :---:      |     :---:     |
