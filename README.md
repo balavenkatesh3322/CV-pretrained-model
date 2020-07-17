@@ -7,6 +7,16 @@ For example, if you want to build a self learning car. You can spend years to bu
 
 ## Computer Vision Model
 
+### Framework
+
+* [Tensorflow](#tensorflow)
+* [Keras](#keras)
+* [PyTorch](#pytorch)
+* [Caffe](#caffe)
+* [MXNet](#mxnet)
+
+### Tensorflow <a name="tensorflow"/>
+
 | Model Name | Description | Framework |
 |   :---:      |     :---:      |     :---:     |
 | [ObjectDetection]( https://github.com/tensorflow/models/tree/master/research/object_detection)  | Localizing and identifying multiple objects in a single image.| `Tensorflow`
@@ -32,5 +42,99 @@ For example, if you want to build a self learning car. You can spend years to bu
 | [Compression]( https://github.com/tensorflow/models/tree/master/research/compression)  | Compressing and decompressing images using a pre-trained Residual GRU network.     | `Tensorflow`
 | [AttentionOCR]( https://github.com/tensorflow/models/tree/master/research/attention_ocr)  | A model for real-world image text extraction.     | `Tensorflow`
 
-#### Natural Language Processing
 
+### Keras <a name="keras"/>
+
+| Model Name | Description | Framework |
+|   :---:      |     :---:      |     :---:     |
+| [Mask R-CNN]( https://github.com/matterport/Mask_RCNN)  | The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.| `Keras`
+| [Image analogies]( https://github.com/awentzonline/image-analogies)  | Generate image analogies using neural matching and blending.     | `Keras`
+| [Popular Image Segmentation Models]( https://github.com/divamgupta/image-segmentation-keras)  | Implementation of Segnet, FCN, UNet and other models in Keras.     | `Keras`
+| [Ultrasound nerve segmentation]( https://github.com/jocicmarko/ultrasound-nerve-segmentation)  | This tutorial shows how to use Keras library to build deep neural network for ultrasound image nerve segmentation.     | `Keras`
+| [DeepMask object segmentation]( https://github.com/abbypa/NNProject_DeepMask)  | This is a Keras-based Python implementation of DeepMask- a complex deep neural network for learning object segmentation masks.     | `Keras`
+| [Monolingual and Multilingual Image Captioning]( https://github.com/elliottd/GroundedTranslation)  | AThis is the source code that accompanies Multilingual Image Description with Neural Sequence Models .     | `Keras`
+| [pix2pix]( https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/pix2pix)  | Keras implementation of Image-to-Image Translation with Conditional Adversarial Networks by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A.    | `Keras`
+| [Colorful Image colorization]( https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Colorful)  | B&W to color.   | `Keras`
+| [CycleGAN]( https://github.com/eriklindernoren/Keras-GAN/blob/master/cyclegan/cyclegan.py)  | Implementation of _Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.    | `Keras`
+| [DualGAN](https://github.com/eriklindernoren/Keras-GAN/blob/master/dualgan/dualgan.py)  | Implementation of _DualGAN: Unsupervised Dual Learning for Image-to-Image Translation.   | `Keras`
+| [Super-Resolution GAN]( https://github.com/eriklindernoren/Keras-GAN/blob/master/srgan/srgan.py)  | Implementation of _Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.   | `Keras`
+
+### PyTorch <a name="pytorch"/>
+
+| Model Name | Description | Framework |
+|   :---:      |     :---:      |     :---:     |
+| [FastPhotoStyle]( https://github.com/NVIDIA/FastPhotoStyle)  | A Closed-form Solution to Photorealistic Image Stylization.   | `PyTorch`
+| [pytorch-CycleGAN-and-pix2pix]( https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)  | A Closed-form Solution to Photorealistic Image Stylization.   | `PyTorch`
+| [maskrcnn-benchmark]( https://github.com/facebookresearch/maskrcnn-benchmark)  | Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.   | `PyTorch`
+| [deep-image-prior]( https://github.com/DmitryUlyanov/deep-image-prior)  | Image restoration with neural networks but without learning.   | `PyTorch`
+| [StarGAN]( https://github.com/yunjey/StarGAN)  | StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation.   | `PyTorch`
+| [faster-rcnn.pytorch]( https://github.com/jwyang/faster-rcnn.pytorch)  | This project is a faster faster R-CNN implementation, aimed to accelerating the training of faster R-CNN object detection models.   | `PyTorch`
+| [pix2pixHD]( https://github.com/NVIDIA/pix2pixHD)  | Synthesizing and manipulating 2048x1024 images with conditional GANs.  | `PyTorch`
+| [Augmentor]( https://github.com/mdbloice/Augmentor)  | Image augmentation library in Python for machine learning.  | `PyTorch`
+| [albumentations]( https://github.com/albumentations-team/albumentationse)  | Fast image augmentation library.   | `PyTorch`
+| [Deep Video Analytics]( https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)  | Deep Video Analytics is a platform for indexing and extracting information from videos and images   | `PyTorch`
+| [semantic-segmentation-pytorch]( https://github.com/CSAILVision/semantic-segmentation-pytorch)  | Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset.   | `PyTorch`
+| [An End-to-End Trainable Neural Network for Image-based Sequence Recognition]( https://github.com/bgshih/crnn)  | This software implements the Convolutional Recurrent Neural Network (CRNN), a combination of CNN, RNN and CTC loss for image-based sequence recognition tasks, such as scene text recognition and OCR.   | `PyTorch`
+| [UNIT]( https://github.com/mingyuliutw/UNIT)  | PyTorch Implementation of our Coupled VAE-GAN algorithm for Unsupervised Image-to-Image Translation.   | `PyTorch`
+| [Neural Sequence labeling model]( https://github.com/jiesutd/NCRFpp)  | Sequence labeling models are quite popular in many NLP tasks, such as Named Entity Recognition (NER), part-of-speech (POS) tagging and word segmentation.   | `PyTorch`
+| [faster rcnn]( https://github.com/longcw/faster_rcnn_pytorch)  | This is a PyTorch implementation of Faster RCNN. This project is mainly based on py-faster-rcnn and TFFRCNN.For details about R-CNN please refer to the paper Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks by Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun.   | `PyTorch`
+| [pytorch-semantic-segmentation]( https://github.com/ZijunDeng/pytorch-semantic-segmentation)  | PyTorch for Semantic Segmentation.   | `PyTorch`
+| [EDSR-PyTorch]( https://github.com/thstkdgus35/EDSR-PyTorch)  | PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution.   | `PyTorch`
+| [image-classification-mobile]( https://github.com/osmr/imgclsmob)  | Collection of classification models pretrained on the ImageNet-1K.   | `PyTorch`
+| [FaderNetworks]( https://github.com/facebookresearch/FaderNetworks)  | Fader Networks: Manipulating Images by Sliding Attributes - NIPS 2017.   | `PyTorch`
+| [neuraltalk2-pytorch]( https://github.com/ruotianluo/ImageCaptioning.pytorch)  | Image captioning model in pytorch(finetunable cnn in branch with_finetune).   | `PyTorch`
+| [RandWireNN]( https://github.com/seungwonpark/RandWireNN)  | Implementation of: "Exploring Randomly Wired Neural Networks for Image Recognition".   | `PyTorch`
+| [stackGAN-v2]( https://github.com/hanzhanggit/StackGAN-v2)  |Pytorch implementation for reproducing StackGAN_v2 results in the paper StackGAN++.   | `PyTorch`
+| [Detectron models for Object Detection]( https://github.com/ignacio-rocco/detectorch)  | This code allows to use some of the Detectron models for object detection from Facebook AI Research with PyTorch.   | `PyTorch`
+| [DEXTR-PyTorch]( https://github.com/scaelles/DEXTR-PyTorch)  | This paper explores the use of extreme points in an object (left-most, right-most, top, bottom pixels) as input to obtain precise object segmentation for images and videos.   | `PyTorch`
+| [pointnet.pytorch]( https://github.com/fxia22/pointnet.pytorch)  | Pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.   | `PyTorch`
+| [self-critical.pytorch]( https://github.com/ruotianluo/self-critical.pytorch) | This repository includes the unofficial implementation Self-critical Sequence Training for Image Captioning and Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering.   | `PyTorch`
+| [vnet.pytorch]( https://github.com/mattmacy/vnet.pytorch)  | A Pytorch implementation for V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation.   | `PyTorch`
+| [piwise]( https://github.com/bodokaiser/piwise)  | Pixel-wise segmentation on VOC2012 dataset using pytorch.   | `PyTorch`
+| [pspnet-pytorch]( https://github.com/Lextal/pspnet-pytorch)  | PyTorch implementation of PSPNet segmentation network.   | `PyTorch`
+| [pytorch-SRResNet]( https://github.com/twtygqyy/pytorch-SRResNet)  | Pytorch implementation for Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.   | `PyTorch`
+| [PNASNet.pytorch]( https://github.com/chenxi116/PNASNet.pytorch)  | PyTorch implementation of PNASNet-5 on ImageNet.   | `PyTorch`
+| [img_classification_pk_pytorch]( https://github.com/felixgwu/img_classification_pk_pytorch)  | Quickly comparing your image classification models with the state-of-the-art models.   | `PyTorch`
+| [Deep Neural Networks are Easily Fooled]( https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)  | AHigh Confidence Predictions for Unrecognizable Images.   | `PyTorch`
+| [pix2pix-pytorch]( https://github.com/mrzhu-cool/pix2pix-pytorch)  | PyTorch implementation of "Image-to-Image Translation Using Conditional Adversarial Networks".   | `PyTorch`
+| [NVIDIA/semantic-segmentation]( https://github.com/NVIDIA/semantic-segmentation)  | A PyTorch Implementation of Improving Semantic Segmentation via Video Propagation and Label Relaxation, In CVPR2019.   | `PyTorch`
+| [Neural-IMage-Assessment]( https://github.com/kentsyx/Neural-IMage-Assessment)  | A PyTorch Implementation of Neural IMage Assessment.   | `PyTorch`
+
+
+### Caffe <a name="caffe"/>
+
+| Model Name | Description | Framework |
+|   :---:      |     :---:      |     :---:     |
+| [OpenPose]( https://github.com/CMU-Perceptual-Computing-Lab/openpose)  | OpenPose represents the first real-time multi-person system to jointly detect human body, hand, and facial keypoints (in total 130 keypoints) on single images.   | `Caffe`
+| [Fully Convolutional Networks for Semantic Segmentation]( https://github.com/shelhamer/fcn.berkeleyvision.org)  | Fully Convolutional Models for Semantic Segmentation.   | `Caffe`
+| [Colorful Image Colorization]( https://github.com/richzhang/colorization)  | Colorful Image Colorization.   | `Caffe`
+| [R-FCN]( https://github.com/YuwenXiong/py-R-FCN)  | R-FCN: Object Detection via Region-based Fully Convolutional Networks.   | `Caffe`
+| [cnn-vis]( https://github.com/jcjohnson/cnn-vis)  |Inspired by Google's recent Inceptionism blog post, cnn-vis is an open-source tool that lets you use convolutional neural networks to generate images.   | `Caffe`
+| [DeconvNet]( https://github.com/HyeonwooNoh/DeconvNet)  | Learning Deconvolution Network for Semantic Segmentation.   | `Caffe`
+
+### MXNet <a name="mxnet"/>
+
+| Model Name | Description | Framework |
+|   :---:      |     :---:      |     :---:     |
+| [Faster RCNN]( https://github.com/ijkguo/mx-rcnn)  | Region Proposal Network solves object detection as a regression problem.   | `MXNet`
+| [SSD]( https://github.com/zhreshold/mxnet-ssd)  | SSD is an unified framework for object detection with a single network.   | `MXNet`
+| [Faster RCNN+Focal Loss]( https://github.com/unsky/focal-loss)  | The code is unofficial version for focal loss for Dense Object Detection.   | `MXNet`
+| [CNN-LSTM-CTC]( https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition)  |I realize three different models for text recognition, and all of them consist of CTC loss layer to realize no segmentation for text images.   | `MXNet`
+| [Faster_RCNN_for_DOTA]( https://github.com/jessemelpolio/Faster_RCNN_for_DOTA)  | This is the official repo of paper _DOTA: A Large-scale Dataset for Object Detection in Aerial Images.  | `MXNet`
+| [RetinaNet]( https://github.com/unsky/RetinaNet)  | Focal loss for Dense Object Detection.   | `MXNet`
+| [MobileNetV2]( https://github.com/liangfu/mxnet-mobilenet-v2)  | This is a MXNet implementation of MobileNetV2 architecture as described in the paper Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation.   | `MXNet`
+| [neuron-selectivity-transfer]( https://github.com/TuSimple/neuron-selectivity-transfer)  | This code is a re-implementation of the imagenet classification experiments in the paper Like What You Like: Knowledge Distill via Neuron Selectivity Transfer.   | `MXNet`
+| [MobileNetV2]( https://github.com/chinakook/MobileNetV2.mxnet)  | This is a Gluon implementation of MobileNetV2 architecture as described in the paper Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation.   | `MXNet`
+| [sparse-structure-selection]( https://github.com/TuSimple/sparse-structure-selection)  | This code is a re-implementation of the imagenet classification experiments in the paper Data-Driven Sparse Structure Selection for Deep Neural Networks.   | `MXNet`
+| [FastPhotoStyle]( https://github.com/NVIDIA/FastPhotoStyle)  | A Closed-form Solution to Photorealistic Image Stylization.   | `MXNet`
+| [FastPhotoStyle]( https://github.com/NVIDIA/FastPhotoStyle)  | A Closed-form Solution to Photorealistic Image Stylization.   | `MXNet`
+
+### Model visualization
+You can see visualizations of each model's network architecture by using [Netron](https://github.com/lutzroeder/Netron).
+
+## Contributions
+Contributions are also very welcom.
+
+# License
+
+[MIT License](LICENSE)
