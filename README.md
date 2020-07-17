@@ -15,6 +15,9 @@ For example, if you want to build a self learning car. You can spend years to bu
 * [Caffe](#caffe)
 * [MXNet](#mxnet)
 
+### Model visualization
+You can see visualizations of each model's network architecture by using [Netron](https://github.com/lutzroeder/Netron).
+
 ### Tensorflow <a name="tensorflow"/>
 
 | Model Name | Description | Framework |
@@ -129,8 +132,6 @@ For example, if you want to build a self learning car. You can spend years to bu
 | [FastPhotoStyle]( https://github.com/NVIDIA/FastPhotoStyle)  | A Closed-form Solution to Photorealistic Image Stylization.   | `MXNet`
 | [FastPhotoStyle]( https://github.com/NVIDIA/FastPhotoStyle)  | A Closed-form Solution to Photorealistic Image Stylization.   | `MXNet`
 
-### Model visualization
-You can see visualizations of each model's network architecture by using [Netron](https://github.com/lutzroeder/Netron).
 
 ## Contributions
 Contributions are also very welcom.
