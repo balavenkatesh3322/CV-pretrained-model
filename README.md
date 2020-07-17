@@ -46,6 +46,9 @@ You can see visualizations of each model's network architecture by using [Netron
 | [Compression]( https://github.com/tensorflow/models/tree/master/research/compression)  | Compressing and decompressing images using a pre-trained Residual GRU network.     | `Tensorflow`
 | [AttentionOCR]( https://github.com/tensorflow/models/tree/master/research/attention_ocr)  | A model for real-world image text extraction.     | `Tensorflow`
 
+<div align="right">
+    <b><a href="#framework">↥ Back To Top</a></b>
+</div>
 
 ### Keras <a name="keras"/>
 
