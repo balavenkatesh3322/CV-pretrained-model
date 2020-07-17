@@ -134,8 +134,6 @@ You can see visualizations of each model's network architecture by using [Netron
 | [MobileNetV2]( https://github.com/chinakook/MobileNetV2.mxnet)  | This is a Gluon implementation of MobileNetV2 architecture as described in the paper Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation.   | `MXNet`
 | [sparse-structure-selection]( https://github.com/TuSimple/sparse-structure-selection)  | This code is a re-implementation of the imagenet classification experiments in the paper Data-Driven Sparse Structure Selection for Deep Neural Networks.   | `MXNet`
 | [FastPhotoStyle]( https://github.com/NVIDIA/FastPhotoStyle)  | A Closed-form Solution to Photorealistic Image Stylization.   | `MXNet`
-| [FastPhotoStyle]( https://github.com/NVIDIA/FastPhotoStyle)  | A Closed-form Solution to Photorealistic Image Stylization.   | `MXNet`
-
 
 ## Contributions
 Contributions are also very welcome.
