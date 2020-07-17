@@ -52,6 +52,9 @@ You can see visualizations of each model's network architecture by using [Netron
 | Model Name | Description | Framework |
 |   :---:      |     :---:      |     :---:     |
 | [Mask R-CNN]( https://github.com/matterport/Mask_RCNN)  | The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.| `Keras`
+| [VGG16]( https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py)  | Very Deep Convolutional Networks for Large-Scale Image Recognition.     | `Keras`
+| [VGG19]( https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py)  | Very Deep Convolutional Networks for Large-Scale Image Recognition.     | `Keras`
+| [ResNet]( https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet_common.py)  | Deep Residual Learning for Image Recognition.     | `Keras`
 | [Image analogies]( https://github.com/awentzonline/image-analogies)  | Generate image analogies using neural matching and blending.     | `Keras`
 | [Popular Image Segmentation Models]( https://github.com/divamgupta/image-segmentation-keras)  | Implementation of Segnet, FCN, UNet and other models in Keras.     | `Keras`
 | [Ultrasound nerve segmentation]( https://github.com/jocicmarko/ultrasound-nerve-segmentation)  | This tutorial shows how to use Keras library to build deep neural network for ultrasound image nerve segmentation.     | `Keras`
