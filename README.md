@@ -134,7 +134,7 @@ You can see visualizations of each model's network architecture by using [Netron
 
 
 ## Contributions
-Contributions are also very welcom.
+Contributions are also very welcome.
 
 # License
 
