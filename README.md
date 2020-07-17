@@ -59,7 +59,7 @@ You can see visualizations of each model's network architecture by using [Netron
 | [Popular Image Segmentation Models]( https://github.com/divamgupta/image-segmentation-keras)  | Implementation of Segnet, FCN, UNet and other models in Keras.     | `Keras`
 | [Ultrasound nerve segmentation]( https://github.com/jocicmarko/ultrasound-nerve-segmentation)  | This tutorial shows how to use Keras library to build deep neural network for ultrasound image nerve segmentation.     | `Keras`
 | [DeepMask object segmentation]( https://github.com/abbypa/NNProject_DeepMask)  | This is a Keras-based Python implementation of DeepMask- a complex deep neural network for learning object segmentation masks.     | `Keras`
-| [Monolingual and Multilingual Image Captioning]( https://github.com/elliottd/GroundedTranslation)  | AThis is the source code that accompanies Multilingual Image Description with Neural Sequence Models .     | `Keras`
+| [Monolingual and Multilingual Image Captioning]( https://github.com/elliottd/GroundedTranslation)  | This is the source code that accompanies Multilingual Image Description with Neural Sequence Models.     | `Keras`
 | [pix2pix]( https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/pix2pix)  | Keras implementation of Image-to-Image Translation with Conditional Adversarial Networks by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A.    | `Keras`
 | [Colorful Image colorization]( https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Colorful)  | B&W to color.   | `Keras`
 | [CycleGAN]( https://github.com/eriklindernoren/Keras-GAN/blob/master/cyclegan/cyclegan.py)  | Implementation of _Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.    | `Keras`
