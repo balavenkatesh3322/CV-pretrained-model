@@ -69,6 +69,10 @@ You can see visualizations of each model's network architecture by using [Netron
 | [DualGAN](https://github.com/eriklindernoren/Keras-GAN/blob/master/dualgan/dualgan.py)  | Implementation of _DualGAN: Unsupervised Dual Learning for Image-to-Image Translation.   | `Keras`
 | [Super-Resolution GAN]( https://github.com/eriklindernoren/Keras-GAN/blob/master/srgan/srgan.py)  | Implementation of _Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.   | `Keras`
 
+<div align="right">
+    <b><a href="#framework">↥ Back To Top</a></b>
+</div>
+
 ### PyTorch <a name="pytorch"/>
 
 | Model Name | Description | Framework |
@@ -110,6 +114,10 @@ You can see visualizations of each model's network architecture by using [Netron
 | [NVIDIA/semantic-segmentation]( https://github.com/NVIDIA/semantic-segmentation)  | A PyTorch Implementation of Improving Semantic Segmentation via Video Propagation and Label Relaxation, In CVPR2019.   | `PyTorch`
 | [Neural-IMage-Assessment]( https://github.com/kentsyx/Neural-IMage-Assessment)  | A PyTorch Implementation of Neural IMage Assessment.   | `PyTorch`
 
+<div align="right">
+    <b><a href="#framework">↥ Back To Top</a></b>
+</div>
+
 
 ### Caffe <a name="caffe"/>
 
@@ -121,6 +129,10 @@ You can see visualizations of each model's network architecture by using [Netron
 | [R-FCN]( https://github.com/YuwenXiong/py-R-FCN)  | R-FCN: Object Detection via Region-based Fully Convolutional Networks.   | `Caffe`
 | [cnn-vis]( https://github.com/jcjohnson/cnn-vis)  |Inspired by Google's recent Inceptionism blog post, cnn-vis is an open-source tool that lets you use convolutional neural networks to generate images.   | `Caffe`
 | [DeconvNet]( https://github.com/HyeonwooNoh/DeconvNet)  | Learning Deconvolution Network for Semantic Segmentation.   | `Caffe`
+
+<div align="right">
+    <b><a href="#framework">↥ Back To Top</a></b>
+</div>
 
 ### MXNet <a name="mxnet"/>
 
@@ -137,6 +149,10 @@ You can see visualizations of each model's network architecture by using [Netron
 | [MobileNetV2]( https://github.com/chinakook/MobileNetV2.mxnet)  | This is a Gluon implementation of MobileNetV2 architecture as described in the paper Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation.   | `MXNet`
 | [sparse-structure-selection]( https://github.com/TuSimple/sparse-structure-selection)  | This code is a re-implementation of the imagenet classification experiments in the paper Data-Driven Sparse Structure Selection for Deep Neural Networks.   | `MXNet`
 | [FastPhotoStyle]( https://github.com/NVIDIA/FastPhotoStyle)  | A Closed-form Solution to Photorealistic Image Stylization.   | `MXNet`
+
+<div align="right">
+    <b><a href="#framework">↥ Back To Top</a></b>
+</div>
 
 ## Contributions
 Contributions are also very welcome.
