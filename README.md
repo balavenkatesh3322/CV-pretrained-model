@@ -18,6 +18,8 @@ For example, if you want to build a self learning car. You can spend years to bu
 ### Model visualization
 You can see visualizations of each model's network architecture by using [Netron](https://github.com/lutzroeder/Netron).
 
+![CV logo](https://github.com/balavenkatesh3322/CV-pretrained-model/blob/master/netron.png)
+
 ### Tensorflow <a name="tensorflow"/>
 
 | Model Name | Description | Framework |
