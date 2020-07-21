@@ -1,5 +1,10 @@
 # Computer Vision Pretrained Models
 
+![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)
+![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
+![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
+![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
 ![CV logo](https://github.com/balavenkatesh3322/CV-pretrained-model/blob/master/logo.jpg)
 
 ## What is pre-trained Model?
