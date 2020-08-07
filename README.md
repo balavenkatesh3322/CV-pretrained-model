@@ -97,6 +97,7 @@ You can see visualizations of each model's network architecture by using [Netron
 
 | Model Name | Description | Framework | License |
 |   :---:      |     :---:      |     :---:     |     :---:     |
+|[detectron2](https://github.com/facebookresearch/detectron2) | Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms | `PyTorch` | [Apache License 2.0](https://raw.githubusercontent.com/facebookresearch/detectron2/master/LICENSE) 
 | [FastPhotoStyle]( https://github.com/NVIDIA/FastPhotoStyle)  | A Closed-form Solution to Photorealistic Image Stylization.   | `PyTorch`| [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public Licens]( https://raw.githubusercontent.com/NVIDIA/FastPhotoStyle/master/LICENSE.md )
 | [pytorch-CycleGAN-and-pix2pix]( https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)  | A Closed-form Solution to Photorealistic Image Stylization.   | `PyTorch`| [BSD License]( https://raw.githubusercontent.com/junyanz/pytorch-CycleGAN-and-pix2pix/master/LICENSE )
 | [maskrcnn-benchmark]( https://github.com/facebookresearch/maskrcnn-benchmark)  | Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.   | `PyTorch`| [MIT License]( https://raw.githubusercontent.com/facebookresearch/maskrcnn-benchmark/master/LICENSE )
