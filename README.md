@@ -137,6 +137,7 @@ You can see visualizations of each model's network architecture by using [Netron
 | [NVIDIA/semantic-segmentation]( https://github.com/NVIDIA/semantic-segmentation)  | A PyTorch Implementation of Improving Semantic Segmentation via Video Propagation and Label Relaxation, In CVPR2019.   | `PyTorch`| [CC BY-NC-SA 4.0 license]( https://raw.githubusercontent.com/NVIDIA/semantic-segmentation/master/LICENSE )
 | [Neural-IMage-Assessment]( https://github.com/kentsyx/Neural-IMage-Assessment)  | A PyTorch Implementation of Neural IMage Assessment.   | `PyTorch`| Not Found
 | [torchxrayvision](https://github.com/mlmed/torchxrayvision) | Pretrained models for chest X-ray (CXR) pathology predictions. Medical, Healthcare, Radiology  | `PyTorch` | [Apache License]( https://raw.githubusercontent.com/mlmed/torchxrayvision/master/LICENSE ) |
+| [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) | PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more  | `PyTorch` | [Apache License 2.0]( https://github.com/rwightman/pytorch-image-models/blob/master/LICENSE ) |
 
 <div align="right">
     <b><a href="#framework">↥ Back To Top</a></b>
